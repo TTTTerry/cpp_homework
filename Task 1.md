@@ -78,7 +78,6 @@
   >          << "j2:\t" << typeid(j2).name() << "\n"
   >          << "k2:\t" << typeid(k2).name() << "\n"
   >          << std::endl;
-  >      system("pause");
   >      return 0;
   >  }
   >  ```
